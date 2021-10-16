@@ -287,6 +287,8 @@ a {
 .best-menu-item img {
     height: 15rem;
     width: 100%;
+    object-fit: cover;
+    /* object-position: 0.1rem 1rem; */
 }
 
 .best-menu-item h3 {
@@ -318,6 +320,8 @@ a {
     width: 100%;
     height: 15rem;
     margin-bottom: 1rem;
+    /* added */
+    object-fit: cover;
 }
 
 .welcome-top-news-content p {
